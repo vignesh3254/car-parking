@@ -39,7 +39,9 @@ This project is a **Car Parking Management System** designed to automate parking
    cd car-parking
    
 2.Install dependencies:
+   ```bash
   pip install -r requirements.txt
 
 3.Run the application:
+   ```bash
   python flask.py
