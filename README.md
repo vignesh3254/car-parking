@@ -40,7 +40,7 @@ This project is a **Car Parking Management System** designed to automate parking
    
 2. Install dependencies:
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run the application:
    ```bash
