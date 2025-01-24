@@ -45,3 +45,10 @@ This project is a **Car Parking Management System** designed to automate parking
 3. Run the application:
    ```bash
    python flask.py
+   
+## Project Structure
+- **flask.py:** Main application file for running the Flask server.
+- **main.py:** Core logic for parking management.
+- **selectingROI.py:** Script for selecting the Region of Interest in video frames.
+- **static/:** Contains static assets like CSS, JS, and images.
+- **carParkingInput.mp4:** Sample video for demonstration.
